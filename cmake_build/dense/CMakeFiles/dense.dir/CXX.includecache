@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cmerrill/OpenSfM/opensfm/src/dense/depthmap.h
+opencv2/opencv.hpp
+-
+random
+-
+
+/home/cmerrill/OpenSfM/opensfm/src/dense/src/depthmap.cc
+../depthmap.h
+/home/cmerrill/OpenSfM/opensfm/src/dense/depthmap.h
+opencv2/opencv.hpp
+-
+random
+-
+
