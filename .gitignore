@@ -7,16 +7,3 @@ launch.json
 .vscode
 .idea
 
-# Ignore generated files
-/build
-/cmake_build
-/doc/build
-/dist
-/OpenSfM.egg-info
-.cache
-.pytest_cache
-eval
-
-
-# Ignore virtualenv files
-env/*
