@@ -1,0 +1,10 @@
+{
+    "v2 samsung sm-g960u 4032 2268 perspective 0.7222": {
+        "projection_type": "perspective",
+        "width": 4032,
+        "height": 2268,
+        "focal": 0.7222222222222222,
+        "k1": 0.0,
+        "k2": 0.0
+    }
+}
